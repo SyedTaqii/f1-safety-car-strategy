@@ -1,0 +1,191 @@
+year,round,event,circuit,date,laps,street,wet,wet_peak_share,wet_tyre_share,rain_share,rc_check,rc_detail,n_sc,n_vsc,n_red
+2018,1,Australian Grand Prix,Melbourne,2018-03-25,58,True,False,0.0,0.0,0.0,ok,,1,0,0
+2018,2,Bahrain Grand Prix,Sakhir,2018-04-08,57,False,False,0.0,0.0,0.0,ok,,0,1,0
+2018,3,Chinese Grand Prix,Shanghai,2018-04-15,56,False,False,0.0,0.0,0.0,ok,,1,0,0
+2018,4,Azerbaijan Grand Prix,Baku,2018-04-29,51,True,False,0.0,0.0,0.0,ok,,2,0,0
+2018,5,Spanish Grand Prix,Barcelona,2018-05-13,66,False,False,0.0,0.0,0.823,ok,,1,1,0
+2018,6,Monaco Grand Prix,Monaco,2018-05-27,78,True,False,0.0,0.0,0.135,lap +-1,"VSC: track status laps [73], race control laps [72]",0,1,0
+2018,7,Canadian Grand Prix,Montreal,2018-06-10,70,True,False,0.0,0.0,0.0,ok,,1,0,0
+2018,8,French Grand Prix,Le Castellet,2018-06-24,53,False,False,0.0,0.0,0.0,ok,,1,1,0
+2018,9,Austrian Grand Prix,Spielberg,2018-07-01,71,False,False,0.0,0.0,0.0,ok,,0,1,0
+2018,10,British Grand Prix,Silverstone,2018-07-08,52,False,False,0.0,0.0,0.0,count differs,"SC: track status laps [33, 38], race control laps [33, 38, 41]",2,0,0
+2018,11,German Grand Prix,Hockenheim,2018-07-22,67,False,False,0.29,0.028,0.269,ok,,1,0,0
+2018,12,Hungarian Grand Prix,Budapest,2018-07-29,70,False,False,0.0,0.0,0.0,ok,,0,2,0
+2018,13,Belgian Grand Prix,Spa-Francorchamps,2018-08-26,44,False,False,0.0,0.0,0.0,ok,,1,0,0
+2018,15,Singapore Grand Prix,Singapore,2018-09-16,61,True,False,0.0,0.0,0.0,ok,,1,0,0
+2018,16,Russian Grand Prix,Sochi,2018-09-30,53,True,False,0.0,0.0,0.0,ok,,0,0,0
+2018,17,Japanese Grand Prix,Suzuka,2018-10-07,53,False,False,0.0,0.0,0.0,ok,,1,1,0
+2018,18,United States Grand Prix,Austin,2018-10-21,56,False,False,0.0,0.0,0.0,ok,,0,1,0
+2018,19,Mexican Grand Prix,Mexico City,2018-10-28,71,False,False,0.0,0.0,0.0,ok,,0,3,0
+2018,20,Brazilian Grand Prix,Sao Paulo,2018-11-11,71,False,False,0.0,0.0,0.0,ok,,0,0,0
+2018,21,Abu Dhabi Grand Prix,Yas Marina,2018-11-25,55,False,False,0.0,0.0,0.059,ok,,1,1,0
+2019,1,Australian Grand Prix,Melbourne,2019-03-17,58,True,False,0.0,0.0,0.0,ok,,0,0,0
+2019,2,Bahrain Grand Prix,Sakhir,2019-03-31,57,False,False,0.0,0.0,0.0,ok,,1,0,0
+2019,3,Chinese Grand Prix,Shanghai,2019-04-14,56,False,False,0.0,0.0,0.0,ok,,0,1,0
+2019,4,Azerbaijan Grand Prix,Baku,2019-04-28,51,True,False,0.0,0.0,0.0,ok,,0,1,0
+2019,5,Spanish Grand Prix,Barcelona,2019-05-12,66,False,False,0.0,0.0,0.0,ok,,1,0,0
+2019,6,Monaco Grand Prix,Monaco,2019-05-26,78,True,False,0.0,0.0,0.829,ok,,1,0,0
+2019,7,Canadian Grand Prix,Montreal,2019-06-09,70,True,False,0.0,0.0,0.0,ok,,0,0,0
+2019,8,French Grand Prix,Le Castellet,2019-06-23,53,False,False,0.0,0.0,0.0,ok,,0,1,0
+2019,9,Austrian Grand Prix,Spielberg,2019-06-30,71,False,False,0.0,0.0,0.0,ok,,0,0,0
+2019,10,British Grand Prix,Silverstone,2019-07-14,52,False,False,0.0,0.0,0.0,ok,,1,0,0
+2019,11,German Grand Prix,Hockenheim,2019-07-28,64,False,True,1.0,0.72,0.971,ok,,4,2,0
+2019,12,Hungarian Grand Prix,Budapest,2019-08-04,70,False,False,0.0,0.0,0.0,ok,,0,0,0
+2019,13,Belgian Grand Prix,Spa-Francorchamps,2019-09-01,44,False,False,0.0,0.0,0.0,count differs,"SC: track status laps [1], race control laps [1, 3]",1,0,0
+2019,14,Italian Grand Prix,Monza,2019-09-08,53,False,False,0.0,0.0,0.0,ok,,0,2,0
+2019,15,Singapore Grand Prix,Singapore,2019-09-22,61,True,False,0.0,0.0,0.0,ok,,3,0,0
+2019,16,Russian Grand Prix,Sochi,2019-09-29,53,True,False,0.0,0.0,0.0,ok,,2,1,0
+2019,17,Japanese Grand Prix,Suzuka,2019-10-13,53,False,False,0.0,0.0,0.0,ok,,0,0,0
+2019,18,Mexican Grand Prix,Mexico City,2019-10-27,71,False,False,0.0,0.0,0.0,ok,,0,1,0
+2019,19,United States Grand Prix,Austin,2019-11-03,56,False,False,0.0,0.0,0.0,ok,,0,0,0
+2019,20,Brazilian Grand Prix,Sao Paulo,2019-11-17,71,False,False,0.0,0.0,0.0,ok,,2,0,0
+2019,21,Abu Dhabi Grand Prix,Yas Marina,2019-12-01,55,False,False,0.0,0.0,0.0,ok,,0,0,0
+2020,2,Styrian Grand Prix,Spielberg,2020-07-12,71,False,False,0.0,0.0,0.0,ok,,1,0,0
+2020,3,Hungarian Grand Prix,Budapest,2020-07-19,70,False,True,0.9,0.042,0.0,ok,,0,0,0
+2020,4,British Grand Prix,Silverstone,2020-08-02,52,False,False,0.0,0.0,0.0,ok,,2,0,0
+2020,5,70th Anniversary Grand Prix,Silverstone,2020-08-09,52,False,False,0.0,0.0,0.0,ok,,0,0,0
+2020,6,Spanish Grand Prix,Barcelona,2020-08-16,66,False,False,0.0,0.0,0.0,ok,,0,0,0
+2020,7,Belgian Grand Prix,Spa-Francorchamps,2020-08-30,44,False,False,0.0,0.0,0.0,ok,,1,0,0
+2020,8,Italian Grand Prix,Monza,2020-09-06,53,False,False,0.0,0.0,0.0,ok,,2,0,1
+2020,9,Tuscan Grand Prix,Mugello,2020-09-13,59,False,False,0.0,0.0,0.0,ok,,3,0,2
+2020,10,Russian Grand Prix,Sochi,2020-09-27,53,True,False,0.0,0.0,0.0,ok,,1,1,0
+2020,11,Eifel Grand Prix,Nurburgring,2020-10-11,60,False,False,0.0,0.0,0.021,ok,,1,1,0
+2020,12,Portuguese Grand Prix,Portimao,2020-10-25,66,False,False,0.0,0.0,0.0,ok,,0,0,0
+2020,13,Emilia Romagna Grand Prix,Imola,2020-11-01,63,False,False,0.0,0.0,0.0,ok,,1,1,0
+2020,14,Turkish Grand Prix,Istanbul,2020-11-15,58,False,True,1.0,1.0,0.0,ok,,0,1,0
+2020,15,Bahrain Grand Prix,Sakhir,2020-11-29,57,False,False,0.0,0.0,0.0,count differs,"SC: track status laps [55], race control laps [3, 55]",2,0,1
+2020,16,Sakhir Grand Prix,Sakhir Outer,2020-12-06,87,False,False,0.0,0.0,0.0,ok,,2,1,0
+2020,17,Abu Dhabi Grand Prix,Yas Marina,2020-12-13,55,False,False,0.0,0.0,0.0,ok,,1,0,0
+2021,1,Bahrain Grand Prix,Sakhir,2021-03-28,56,False,False,0.0,0.0,0.0,ok,,1,1,0
+2021,2,Emilia Romagna Grand Prix,Imola,2021-04-18,63,False,True,1.0,0.442,0.266,ok,,2,0,1
+2021,3,Portuguese Grand Prix,Portimao,2021-05-02,66,False,False,0.0,0.0,0.0,ok,,1,0,0
+2021,4,Spanish Grand Prix,Barcelona,2021-05-09,66,False,False,0.0,0.0,0.0,ok,,1,0,0
+2021,5,Monaco Grand Prix,Monaco,2021-05-23,78,True,False,0.0,0.0,0.0,ok,,0,0,0
+2021,6,Azerbaijan Grand Prix,Baku,2021-06-06,51,True,False,0.0,0.0,0.0,ok,,2,0,1
+2021,7,French Grand Prix,Le Castellet,2021-06-20,53,False,False,0.0,0.0,0.0,ok,,0,0,0
+2021,8,Styrian Grand Prix,Spielberg,2021-06-27,71,False,False,0.0,0.0,0.0,ok,,0,0,0
+2021,9,Austrian Grand Prix,Spielberg,2021-07-04,71,False,False,0.0,0.0,0.0,ok,,1,0,0
+2021,10,British Grand Prix,Silverstone,2021-07-18,52,False,False,0.0,0.0,0.0,ok,,1,0,1
+2021,11,Hungarian Grand Prix,Budapest,2021-08-01,70,False,True,1.0,0.052,0.238,ok,,1,0,1
+2021,13,Dutch Grand Prix,Zandvoort,2021-09-05,72,False,False,0.0,0.0,0.0,ok,,0,0,0
+2021,14,Italian Grand Prix,Monza,2021-09-12,53,False,False,0.0,0.0,0.0,ok,,1,2,0
+2021,15,Russian Grand Prix,Sochi,2021-09-26,53,True,True,1.0,0.065,0.141,ok,,0,0,0
+2021,16,Turkish Grand Prix,Istanbul,2021-10-10,58,False,True,1.0,0.999,0.0,ok,,0,0,0
+2021,17,United States Grand Prix,Austin,2021-10-24,56,False,False,0.0,0.0,0.0,ok,,0,1,0
+2021,18,Mexico City Grand Prix,Mexico City,2021-11-07,71,False,False,0.0,0.0,0.0,ok,,1,0,0
+2021,19,São Paulo Grand Prix,Sao Paulo,2021-11-14,71,False,False,0.0,0.0,0.0,ok,,1,2,0
+2021,20,Qatar Grand Prix,Lusail,2021-11-21,57,False,False,0.0,0.0,0.0,ok,,0,1,0
+2021,21,Saudi Arabian Grand Prix,Jeddah,2021-12-05,50,True,False,0.0,0.0,0.0,lap +-1,"VSC: track status laps [23, 28, 29, 36], race control laps [23, 27, 29, 36]; RED: track status laps [13, 16], race control laps [13, 15]",1,4,2
+2021,22,Abu Dhabi Grand Prix,Yas Marina,2021-12-12,58,False,False,0.0,0.0,0.0,ok,,1,1,0
+2022,1,Bahrain Grand Prix,Sakhir,2022-03-20,57,False,False,0.0,0.0,0.0,ok,,1,0,0
+2022,2,Saudi Arabian Grand Prix,Jeddah,2022-03-27,50,True,False,0.0,0.0,0.0,ok,,1,1,0
+2022,3,Australian Grand Prix,Melbourne,2022-04-10,58,True,False,0.0,0.0,0.0,ok,,2,1,0
+2022,4,Emilia Romagna Grand Prix,Imola,2022-04-24,63,False,True,1.0,0.291,0.0,ok,,1,0,0
+2022,5,Miami Grand Prix,Miami,2022-05-08,57,True,False,0.0,0.0,0.0,ok,,1,0,0
+2022,6,Spanish Grand Prix,Barcelona,2022-05-22,66,False,False,0.0,0.0,0.0,ok,,0,0,0
+2022,7,Monaco Grand Prix,Monaco,2022-05-29,64,True,True,1.0,0.338,0.322,count differs,"SC: track status laps [2, 27], race control laps [27]",2,0,1
+2022,8,Azerbaijan Grand Prix,Baku,2022-06-12,51,True,False,0.0,0.0,0.0,ok,,0,2,0
+2022,9,Canadian Grand Prix,Montreal,2022-06-19,70,True,False,0.0,0.0,0.0,ok,,1,2,0
+2022,10,British Grand Prix,Silverstone,2022-07-03,52,False,False,0.0,0.0,0.0,ok,,1,0,1
+2022,11,Austrian Grand Prix,Spielberg,2022-07-10,71,False,False,0.0,0.0,0.0,ok,,0,1,0
+2022,12,French Grand Prix,Le Castellet,2022-07-24,53,False,False,0.0,0.0,0.0,ok,,1,1,0
+2022,13,Hungarian Grand Prix,Budapest,2022-07-31,70,False,False,0.0,0.0,0.29,ok,,0,2,0
+2022,14,Belgian Grand Prix,Spa-Francorchamps,2022-08-28,44,False,False,0.0,0.0,0.0,ok,,1,0,0
+2022,15,Dutch Grand Prix,Zandvoort,2022-09-04,72,False,False,0.0,0.0,0.0,ok,,1,1,0
+2022,16,Italian Grand Prix,Monza,2022-09-11,53,False,False,0.0,0.0,0.0,ok,,1,1,0
+2022,17,Singapore Grand Prix,Singapore,2022-10-02,59,True,True,1.0,0.622,0.0,ok,,2,3,0
+2022,18,Japanese Grand Prix,Suzuka,2022-10-09,29,False,True,1.0,1.0,0.973,ok,,1,0,1
+2022,19,United States Grand Prix,Austin,2022-10-23,56,False,False,0.0,0.0,0.0,ok,,2,0,0
+2022,20,Mexico City Grand Prix,Mexico City,2022-10-30,71,False,False,0.0,0.0,0.0,ok,,0,1,0
+2022,21,São Paulo Grand Prix,Sao Paulo,2022-11-13,71,False,False,0.0,0.0,0.0,ok,,2,0,0
+2022,22,Abu Dhabi Grand Prix,Yas Marina,2022-11-20,58,False,False,0.0,0.0,0.0,ok,,0,0,0
+2023,1,Bahrain Grand Prix,Sakhir,2023-03-05,57,False,False,0.0,0.0,0.0,ok,,0,1,0
+2023,2,Saudi Arabian Grand Prix,Jeddah,2023-03-19,50,True,False,0.0,0.0,0.0,ok,,1,0,0
+2023,3,Australian Grand Prix,Melbourne,2023-04-02,58,True,False,0.0,0.0,0.0,lap +-1,"RED: track status laps [8, 55, 58], race control laps [8, 55, 57]",3,1,3
+2023,4,Azerbaijan Grand Prix,Baku,2023-04-30,51,True,False,0.0,0.0,0.0,ok,,1,0,0
+2023,5,Miami Grand Prix,Miami,2023-05-07,57,True,False,0.0,0.0,0.0,ok,,0,0,0
+2023,6,Monaco Grand Prix,Monaco,2023-05-28,78,True,True,1.0,0.293,0.236,ok,,0,0,0
+2023,7,Spanish Grand Prix,Barcelona,2023-06-04,66,False,False,0.0,0.0,0.0,ok,,0,0,0
+2023,8,Canadian Grand Prix,Montreal,2023-06-18,70,True,False,0.0,0.0,0.0,ok,,1,1,0
+2023,9,Austrian Grand Prix,Spielberg,2023-07-02,71,False,False,0.0,0.0,0.0,ok,,1,1,0
+2023,10,British Grand Prix,Silverstone,2023-07-09,52,False,False,0.0,0.0,0.0,ok,,1,0,0
+2023,11,Hungarian Grand Prix,Budapest,2023-07-23,70,False,False,0.0,0.0,0.0,ok,,0,0,0
+2023,12,Belgian Grand Prix,Spa-Francorchamps,2023-07-30,44,False,False,0.0,0.0,0.119,ok,,0,0,0
+2023,13,Dutch Grand Prix,Zandvoort,2023-08-27,72,False,True,1.0,0.244,0.331,ok,,2,1,1
+2023,14,Italian Grand Prix,Monza,2023-09-03,51,False,False,0.0,0.0,0.0,ok,,0,0,0
+2023,15,Singapore Grand Prix,Singapore,2023-09-17,62,True,False,0.0,0.0,0.0,ok,,1,1,0
+2023,16,Japanese Grand Prix,Suzuka,2023-09-24,53,False,False,0.0,0.0,0.0,ok,,1,1,0
+2023,17,Qatar Grand Prix,Lusail,2023-10-08,57,False,False,0.0,0.0,0.0,ok,,1,0,0
+2023,18,United States Grand Prix,Austin,2023-10-22,56,False,False,0.0,0.0,0.0,ok,,0,0,0
+2023,19,Mexico City Grand Prix,Mexico City,2023-10-29,71,False,False,0.0,0.0,0.0,ok,,2,1,1
+2023,20,São Paulo Grand Prix,Sao Paulo,2023-11-05,71,False,False,0.0,0.0,0.008,ok,,1,0,1
+2023,21,Las Vegas Grand Prix,Las Vegas,2023-11-18,50,True,False,0.0,0.0,0.0,ok,,2,1,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina,2023-11-26,58,False,False,0.0,0.0,0.0,ok,,0,0,0
+2024,1,Bahrain Grand Prix,Sakhir,2024-03-02,57,False,False,0.0,0.0,0.0,ok,,0,0,0
+2024,2,Saudi Arabian Grand Prix,Jeddah,2024-03-09,50,True,False,0.0,0.0,0.0,ok,,1,0,0
+2024,3,Australian Grand Prix,Melbourne,2024-03-24,58,True,False,0.0,0.0,0.0,ok,,0,2,0
+2024,4,Japanese Grand Prix,Suzuka,2024-04-07,53,False,False,0.0,0.0,0.0,ok,,0,0,1
+2024,5,Chinese Grand Prix,Shanghai,2024-04-21,56,False,False,0.0,0.0,0.0,ok,,2,0,0
+2024,6,Miami Grand Prix,Miami,2024-05-05,57,True,False,0.0,0.0,0.0,ok,,1,1,0
+2024,7,Emilia Romagna Grand Prix,Imola,2024-05-19,63,False,False,0.0,0.0,0.0,ok,,0,0,0
+2024,8,Monaco Grand Prix,Monaco,2024-05-26,78,True,False,0.0,0.0,0.0,ok,,1,0,1
+2024,9,Canadian Grand Prix,Montreal,2024-06-09,70,True,True,1.0,0.665,0.252,ok,,2,0,0
+2024,10,Spanish Grand Prix,Barcelona,2024-06-23,66,False,False,0.0,0.0,0.011,ok,,0,0,0
+2024,11,Austrian Grand Prix,Spielberg,2024-06-30,71,False,False,0.0,0.0,0.0,ok,,0,1,0
+2024,12,British Grand Prix,Silverstone,2024-07-07,52,False,True,1.0,0.244,0.44,ok,,0,0,0
+2024,13,Hungarian Grand Prix,Budapest,2024-07-21,70,False,False,0.0,0.0,0.0,ok,,0,0,0
+2024,14,Belgian Grand Prix,Spa-Francorchamps,2024-07-28,44,False,False,0.0,0.0,0.0,ok,,0,0,0
+2024,15,Dutch Grand Prix,Zandvoort,2024-08-25,72,False,False,0.0,0.0,0.0,ok,,0,0,0
+2024,16,Italian Grand Prix,Monza,2024-09-01,53,False,False,0.0,0.0,0.0,ok,,0,0,0
+2024,17,Azerbaijan Grand Prix,Baku,2024-09-15,51,True,False,0.0,0.0,0.0,ok,,0,1,0
+2024,18,Singapore Grand Prix,Singapore,2024-09-22,62,True,False,0.0,0.0,0.0,ok,,0,0,0
+2024,19,United States Grand Prix,Austin,2024-10-20,56,False,False,0.0,0.0,0.0,ok,,1,0,0
+2024,20,Mexico City Grand Prix,Mexico City,2024-10-27,71,False,False,0.0,0.0,0.0,ok,,1,0,0
+2024,21,São Paulo Grand Prix,Sao Paulo,2024-11-03,69,False,True,1.0,1.0,0.758,ok,,2,1,1
+2024,22,Las Vegas Grand Prix,Las Vegas,2024-11-23,50,True,False,0.0,0.0,0.0,ok,,0,0,0
+2024,23,Qatar Grand Prix,Lusail,2024-12-01,57,False,False,0.0,0.0,0.0,ok,,3,0,0
+2024,24,Abu Dhabi Grand Prix,Yas Marina,2024-12-08,58,False,False,0.0,0.0,0.0,ok,,0,1,0
+2025,1,Australian Grand Prix,Melbourne,2025-03-16,57,True,True,1.0,0.809,0.32,ok,,3,0,0
+2025,2,Chinese Grand Prix,Shanghai,2025-03-23,56,False,False,0.0,0.0,0.0,ok,,0,0,0
+2025,3,Japanese Grand Prix,Suzuka,2025-04-06,53,False,False,0.0,0.0,0.0,ok,,0,0,0
+2025,4,Bahrain Grand Prix,Sakhir,2025-04-13,57,False,False,0.0,0.0,0.0,ok,,1,0,0
+2025,5,Saudi Arabian Grand Prix,Jeddah,2025-04-20,50,True,False,0.0,0.0,0.0,ok,,1,0,0
+2025,6,Miami Grand Prix,Miami,2025-05-04,57,True,False,0.0,0.0,0.055,ok,,0,3,0
+2025,7,Emilia Romagna Grand Prix,Imola,2025-05-18,63,False,False,0.0,0.0,0.0,ok,,1,1,0
+2025,8,Monaco Grand Prix,Monaco,2025-05-25,78,True,False,0.0,0.0,0.0,ok,,0,1,0
+2025,9,Spanish Grand Prix,Barcelona,2025-06-01,66,False,False,0.0,0.0,0.0,ok,,1,0,0
+2025,10,Canadian Grand Prix,Montreal,2025-06-15,70,True,False,0.0,0.0,0.0,ok,,1,0,0
+2025,11,Austrian Grand Prix,Spielberg,2025-06-29,70,False,False,0.0,0.0,0.0,ok,,1,0,0
+2025,12,British Grand Prix,Silverstone,2025-07-06,52,False,True,1.0,0.737,0.111,ok,,2,2,0
+2025,13,Belgian Grand Prix,Spa-Francorchamps,2025-07-27,44,False,True,1.0,0.273,0.0,count differs,"SC: track status laps [1], race control laps []",1,0,0
+2025,14,Hungarian Grand Prix,Budapest,2025-08-03,70,False,False,0.0,0.0,0.0,ok,,0,0,0
+2025,15,Dutch Grand Prix,Zandvoort,2025-08-31,72,False,False,0.0,0.0,0.0,ok,,3,1,0
+2025,16,Italian Grand Prix,Monza,2025-09-07,53,False,False,0.0,0.0,0.0,ok,,0,0,0
+2025,17,Azerbaijan Grand Prix,Baku,2025-09-21,51,True,False,0.0,0.0,0.0,ok,,1,0,0
+2025,18,Singapore Grand Prix,Singapore,2025-10-05,62,True,False,0.0,0.0,0.0,ok,,0,0,0
+2025,19,United States Grand Prix,Austin,2025-10-19,56,False,False,0.0,0.0,0.0,ok,,0,1,0
+2025,20,Mexico City Grand Prix,Mexico City,2025-10-26,71,False,False,0.0,0.0,0.0,ok,,0,1,0
+2025,21,São Paulo Grand Prix,Sao Paulo,2025-11-09,71,False,False,0.0,0.0,0.0,ok,,1,1,0
+2025,22,Las Vegas Grand Prix,Las Vegas,2025-11-22,50,True,False,0.0,0.0,0.0,ok,,0,2,0
+2025,23,Qatar Grand Prix,Lusail,2025-11-30,57,False,False,0.0,0.0,0.0,ok,,1,0,0
+2025,24,Abu Dhabi Grand Prix,Yas Marina,2025-12-07,58,False,False,0.0,0.0,0.0,ok,,0,0,0
+2026,1,Australian Grand Prix,Melbourne,2026-03-08,58,True,False,0.0,0.0,0.0,ok,,0,3,0
+2026,2,Chinese Grand Prix,Shanghai,2026-03-15,56,False,False,0.0,0.0,0.0,ok,,1,0,0
+2026,3,Japanese Grand Prix,Suzuka,2026-03-29,53,False,False,0.0,0.0,0.0,ok,,1,0,0
+2026,4,Miami Grand Prix,Miami,2026-05-03,57,True,False,0.0,0.0,0.0,ok,,1,0,0
+2026,5,Canadian Grand Prix,Montreal,2026-05-24,68,True,False,0.33,0.012,0.0,ok,,0,3,0
+2026,6,Monaco Grand Prix,Monaco,2026-06-07,78,True,False,0.0,0.0,0.0,ok,,3,0,1
+2026,7,Barcelona Grand Prix,Barcelona,2026-06-14,66,False,False,0.0,0.0,0.0,ok,,0,2,0
+2026,8,Austrian Grand Prix,Spielberg,2026-06-28,71,False,False,0.0,0.0,0.0,ok,,0,2,0
+2026,9,British Grand Prix,Silverstone,2026-07-05,52,False,False,0.0,0.0,0.0,count differs,"SC: track status laps [48], race control laps [48, 51]",1,2,0
+2026,10,Belgian Grand Prix,Spa-Francorchamps,2026-07-19,44,False,False,0.0,0.0,0.0,ok,,1,2,0
+2026,11,Hungarian Grand Prix,Budapest,2026-07-26,70,False,False,0.0,0.0,0.0,ok,,0,1,0
+2026,12,Dutch Grand Prix,Zandvoort,2026-08-23,72,False,False,0.0,0.0,0.103,ok,,0,2,1
+2026,13,Italian Grand Prix,Monza,2026-09-06,53,False,False,0.0,0.0,0.0,ok,,1,1,1
+2026,14,Spanish Grand Prix,Madrid,2026-09-13,57,True,False,0.0,0.0,0.0,ok,,0,1,0
+2026,15,Azerbaijan Grand Prix,Baku,2026-09-26,51,True,False,0.0,0.0,0.0,ok,,2,0,0
+2026,16,Bahrain Grand Prix,Sepang,2026-10-04,55,False,True,0.68,0.107,0.0,lap +-1,"SC: track status laps [9, 46], race control laps [9, 45]",2,0,0
+2026,17,Singapore Grand Prix,Singapore,2026-10-11,62,True,False,0.0,0.0,0.0,ok,,0,2,0
+2026,18,United States Grand Prix,Austin,2026-10-25,56,False,False,0.0,0.0,0.0,ok,,0,2,0
+2026,19,Mexico City Grand Prix,Mexico City,2026-11-01,56,False,False,0.0,0.0,0.0,ok,,2,1,1
+2026,20,São Paulo Grand Prix,Sao Paulo,2026-11-08,71,False,True,1.0,0.363,0.021,ok,,0,0,0

@@ -1,0 +1,14 @@
+.venv/
+cache/
+data/raw/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+
+# Claude Code and project-process notes stay local. The only published markdown is README.md and the
+# predictions (the tagged Las Vegas file must be tracked).
+.claude/
+*.md
+!README.md
+!predictions/*.md
