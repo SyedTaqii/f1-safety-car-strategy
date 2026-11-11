@@ -1,3 +1,10 @@
 fastf1==3.9.2
 pyyaml==6.0.3
 pytest==9.2.0
+# M2: the SC model. numpy and pandas come with fastf1; scipy and matplotlib do too, pinned here because we import them
+statsmodels==0.15.0
+scipy==1.18.1
+matplotlib==3.11.2
+# M2: to run the notebooks (kernel: python -m ipykernel install --user --name f1-sc-strategy)
+nbconvert==7.17.2
+ipykernel==7.4.0

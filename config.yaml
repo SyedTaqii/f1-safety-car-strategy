@@ -13,8 +13,9 @@ circuits:                           # one name per track; FastF1's Location chan
   aliases: {Miami Gardens: Miami, Monte Carlo: Monaco, Marina Bay: Singapore, Yas Island: Yas Marina,
             Kuala Lumpur: Sepang, Montréal: Montreal, São Paulo: Sao Paulo, Nürburgring: Nurburgring, Portimão: Portimao}
   by_event: {Sakhir Grand Prix: Sakhir Outer}   # 2020 round 16 ran the outer loop: a different track at the same venue
-  # walls close to the track, little run-off. Clear cases first; the last five are hybrids (the user's call, M1)
-  street: [Monaco, Baku, Singapore, Jeddah, Las Vegas, Miami, Melbourne, Montreal, Sochi, Madrid]
+  # the user's rule (D-022): a street circuit is one laid out inside the city. Miami (a stadium's grounds in
+  # Miami Gardens) and Sochi (the Olympic park) are permanent
+  street: [Monaco, Baku, Singapore, Jeddah, Las Vegas, Melbourne, Montreal, Madrid]
 
 wet:
   min_peak_share: 0.5               # a race is wet if, on at least one lap, this share of the running cars were on wet_compounds (D-019)
@@ -24,6 +25,23 @@ events:
   bad_races:                        # left out of the event table (D-021). 2018 round 14 (Monza) is missing too: FastF1 can't parse its laps
     - {year: 2020, round: 1}        # Austria: FastF1 has 68 of 71 laps, and its SC periods sit about 5 minutes after the slow laps
     - {year: 2021, round: 12}       # Spa: 3 laps behind the safety car in the rain, never a race
+
+sc_model:                           # dry races only (wet races are left out of the fit and the validation)
+  features: [lap1, lap2, street]    # what the pooled logistic sees; chosen on the hold-out among `candidates` (D-024)
+  candidates:                       # compared in outputs/sc_variants.csv
+    PRD spec: [lap1, mid, late, street]
+    + lap 2: [lap1, lap2, mid, late, street]
+    no race phase: [lap1, lap2, street]
+    street after lap 2 only: [lap1, lap2, street_later]
+    + after a restart: [lap1, lap2, street, restart]
+    + race length: [lap1, lap2, street, log_laps]
+  phase_edges: [0.3333, 0.6667]     # early / mid / late = thirds of the race distance
+  restart_laps: 3                   # `restart` = within this many laps after the last incident ended
+  strength_bounds: [1, 100]         # limits for a shrinkage prior's strength, in incidents. At 100 a multiplier can't move more than about 10%
+  test_years: [2024, 2025, 2026]    # each is predicted from the seasons before it (D-008)
+  band: [10, 90]                    # percentiles of the uncertainty band
+  draws: 4000                       # parameter draws behind the band
+  seed: 2026
 
 download:
   rate_limit_wait_s: 300            # FastF1 allows itself 500 requests an hour; when it refuses, wait this long and retry the race

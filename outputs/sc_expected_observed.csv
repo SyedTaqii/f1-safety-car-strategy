@@ -1,0 +1,13 @@
+by,kind,group,expected,observed
+season,SC,2024,17.0,10
+season,SC,2025,15.99,12
+season,SC,2026,13.11,10
+season,VSC,2024,10.6,6
+season,VSC,2025,10.32,11
+season,VSC,2026,10.03,24
+lap,SC,lap 1,13.85,8
+lap,SC,lap 2,1.8,2
+lap,SC,laps 3+,30.45,22
+lap,VSC,lap 1,1.5,0
+lap,VSC,lap 2,2.02,5
+lap,VSC,laps 3+,27.43,36

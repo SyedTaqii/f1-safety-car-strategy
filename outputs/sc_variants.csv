@@ -1,0 +1,10 @@
+variant,logloss_per_100_laps,brier_any,brier_sc
+PRD spec,11.4532,0.1851,0.2747
++ lap 2,11.2669,0.1847,0.2749
+no race phase,11.2341,0.1846,0.2749
+street after lap 2 only,11.2801,0.1846,0.2752
++ after a restart,11.2637,0.1864,0.2736
++ race length,11.2416,0.1872,0.273
+"chosen, no circuit multiplier",11.2261,0.1841,0.2753
+"chosen, no season multiplier",11.2875,0.1879,0.276
+"chosen, no multipliers",11.2803,0.1874,0.2766
